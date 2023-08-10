@@ -1,6 +1,6 @@
 # Alacritty
 
-1. synchronize config
+## 1. synchronize config
 ```shell
-git clone 
+git clone git@github.com:jerrysybai/alacritty.git
 ```
