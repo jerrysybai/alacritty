@@ -2,5 +2,5 @@
 
 ## 1. synchronize config
 ```shell
-git clone git@github.com:jerrysybai/alacritty.git
+git clone https://github.com/jerrysybai/alacritty.git
 ```
