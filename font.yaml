@@ -1,26 +1,30 @@
 # Font configuration
 font:
   normal:
-    family: MesloLGS NF
+    #family: MesloLGS NF
     #family: JetBrains Mono  
+    family: JetBrainsMono Nerd Font
     style: Regular
 
   bold:
-    family: MesloLGS NF
+    #family: MesloLGS NF
     #family: JetBrains Mono
+    family: JetBrainsMono Nerd Font
     style: Bold
 
   italic:
-    family: MesloLGS NF
+    #family: MesloLGS NF
     #family: JetBrains Mono
+    family: JetBrainsMono Nerd Font
     style: Italic
 
   bold_italic:
-    family: MesloLGS NF
+    #family: MesloLGS NF
     #family: JetBrains Mono
+    family: JetBrainsMono Nerd Font
     style: Bold Italic
 
-  size: 12 
+  size: 14 
 
   # the extra space around each character. 
   # 'offset.y': modifying the line spacing.
