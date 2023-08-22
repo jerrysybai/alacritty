@@ -6,7 +6,9 @@ import:
   - ~/.config/alacritty/theme/themes/catppuccin.yaml # Theme
   - ~/.config/alacritty/font.yaml # Font
   # Windows
-
+  - C:\Users\C\AppData\Roaming\alacritty\theme\themes\monokai_charcoal.yml # Theme
+  - C:\Users\C\AppData\Roaming\alacritty\font.yml # Font
+  
 env:
   # TERM env customization.
   #
@@ -96,10 +98,10 @@ cursor:
 # - Copy (TODO)
 mouse_bindings:
   - { mouse: Middle, action: PasteSelection }
-  - { mouse: Middle, action: PasteSelection }
 
 selection:
   semantic_escape_chars: ",│`|:\"' ()[]{}<>"
+  save_to_clipboard: true
 
 dynamic_title: true
 
